@@ -3,3 +3,21 @@ p,
 h2 {
   text-align: center;
 }
+
+.verdana {
+  font-family: Verdana;
+}
+
+.white {
+  color: White;
+}
+
+html {
+  background-color: black;
+}
+
+.footer {
+  text-align: right;
+  color: gray;
+  font-size: 21px;
+}
